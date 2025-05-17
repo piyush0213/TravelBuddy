@@ -31,6 +31,7 @@
 
 ## 📁 Project Structure
 
+```bash
 src/
 ├── components/ # Reusable UI components
 ├── context/ # React Context for state management
@@ -41,6 +42,7 @@ src/
 ├── index.css
 ├── main.tsx
 ├── vite-env.d.ts
+```
 
 ---
 
@@ -51,6 +53,22 @@ src/
 ```bash
 git clone https://github.com/piyush0213/TravelBuddy.git
 cd TravelBuddy
+```
+
+### 2. Install Dependencies
+
+```bash
 npm install
+```
+
+### 3. Run Server
+
+```bash
 npm run dev
+```
+
+---
+
+
+
 
